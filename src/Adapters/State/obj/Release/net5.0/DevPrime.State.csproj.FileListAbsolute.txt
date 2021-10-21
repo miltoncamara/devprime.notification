@@ -1,0 +1,17 @@
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\bin\Release\net5.0\DevPrime.State.deps.json
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\bin\Release\net5.0\DevPrime.State.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\bin\Release\net5.0\ref\DevPrime.State.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\bin\Release\net5.0\DevPrime.State.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\bin\Release\net5.0\Application.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\bin\Release\net5.0\Domain.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\bin\Release\net5.0\Application.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\bin\Release\net5.0\Domain.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\obj\Release\net5.0\DevPrime.State.csprojAssemblyReference.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\obj\Release\net5.0\DevPrime.State.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\obj\Release\net5.0\DevPrime.State.AssemblyInfoInputs.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\obj\Release\net5.0\DevPrime.State.AssemblyInfo.cs
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\obj\Release\net5.0\DevPrime.State.csproj.CoreCompileInputs.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\obj\Release\net5.0\DevPrime.State.csproj.CopyComplete
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\obj\Release\net5.0\DevPrime.State.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\obj\Release\net5.0\ref\DevPrime.State.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\State\obj\Release\net5.0\DevPrime.State.pdb

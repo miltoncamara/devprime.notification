@@ -1,0 +1,17 @@
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\bin\Debug\net5.0\DevPrime.Observability.deps.json
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\bin\Debug\net5.0\DevPrime.Observability.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\bin\Debug\net5.0\ref\DevPrime.Observability.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\bin\Debug\net5.0\DevPrime.Observability.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\bin\Debug\net5.0\Application.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\bin\Debug\net5.0\Domain.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\bin\Debug\net5.0\Domain.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\bin\Debug\net5.0\Application.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\obj\Debug\net5.0\DevPrime.Observability.csprojAssemblyReference.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\obj\Debug\net5.0\DevPrime.Observability.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\obj\Debug\net5.0\DevPrime.Observability.AssemblyInfoInputs.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\obj\Debug\net5.0\DevPrime.Observability.AssemblyInfo.cs
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\obj\Debug\net5.0\DevPrime.Observability.csproj.CoreCompileInputs.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\obj\Debug\net5.0\DevPrime.Observability.csproj.CopyComplete
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\obj\Debug\net5.0\DevPrime.Observability.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\obj\Debug\net5.0\ref\DevPrime.Observability.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\Observability\obj\Debug\net5.0\DevPrime.Observability.pdb

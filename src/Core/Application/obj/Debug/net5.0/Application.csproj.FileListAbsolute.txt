@@ -1,0 +1,15 @@
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\bin\Debug\net5.0\Application.deps.json
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\bin\Debug\net5.0\Application.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\bin\Debug\net5.0\ref\Application.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\bin\Debug\net5.0\Application.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\bin\Debug\net5.0\Domain.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\bin\Debug\net5.0\Domain.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\obj\Debug\net5.0\Application.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\obj\Debug\net5.0\ref\Application.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Core\Application\obj\Debug\net5.0\Application.pdb

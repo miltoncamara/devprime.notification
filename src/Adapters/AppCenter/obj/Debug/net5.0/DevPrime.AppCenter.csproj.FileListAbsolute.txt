@@ -1,0 +1,12 @@
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\AppCenter\bin\Debug\net5.0\DevPrime.AppCenter.deps.json
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\AppCenter\bin\Debug\net5.0\DevPrime.AppCenter.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\AppCenter\bin\Debug\net5.0\ref\DevPrime.AppCenter.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\AppCenter\bin\Debug\net5.0\DevPrime.AppCenter.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\AppCenter\obj\Debug\net5.0\DevPrime.AppCenter.csprojAssemblyReference.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\AppCenter\obj\Debug\net5.0\DevPrime.AppCenter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\AppCenter\obj\Debug\net5.0\DevPrime.AppCenter.AssemblyInfoInputs.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\AppCenter\obj\Debug\net5.0\DevPrime.AppCenter.AssemblyInfo.cs
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\AppCenter\obj\Debug\net5.0\DevPrime.AppCenter.csproj.CoreCompileInputs.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\AppCenter\obj\Debug\net5.0\DevPrime.AppCenter.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\AppCenter\obj\Debug\net5.0\ref\DevPrime.AppCenter.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\AppCenter\obj\Debug\net5.0\DevPrime.AppCenter.pdb

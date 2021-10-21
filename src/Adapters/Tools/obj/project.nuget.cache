@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wcwfd+bNdlE8NhGDoNq3DLIDfkknZcJOHOdWdl8TJxEQbCsWJ8d5qBAytHwRL4R0+mOE9zYGxWEBPSQ10sGw/g==",
+  "success": true,
+  "projectFilePath": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Adapters\\Tools\\DevPrime.Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milto\\.nuget\\packages\\devprime.stack.foundation\\5.4.80\\devprime.stack.foundation.5.4.80.nupkg.sha512",
+    "C:\\Users\\milto\\.nuget\\packages\\devprime.stack.tools\\5.4.80\\devprime.stack.tools.5.4.80.nupkg.sha512",
+    "C:\\Users\\milto\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\milto\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\milto\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

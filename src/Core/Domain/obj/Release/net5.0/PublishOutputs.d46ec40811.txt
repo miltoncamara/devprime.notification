@@ -1,0 +1,7 @@
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\out\Domain_tmp.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\out\Domain_tmp.deps.json
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\out\Domain_tmp.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\out\devprime.stack.foundation.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\out\FluentValidation.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\out\Microsoft.Extensions.DependencyInjection.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\out\Microsoft.Extensions.DependencyInjection.Abstractions.dll

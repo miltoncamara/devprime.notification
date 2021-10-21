@@ -1,0 +1,217 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Adapters\\Tools\\DevPrime.Tools.csproj": {}
+  },
+  "projects": {
+    "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Adapters\\Tools\\DevPrime.Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Adapters\\Tools\\DevPrime.Tools.csproj",
+        "projectName": "DevPrime.Tools",
+        "projectPath": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Adapters\\Tools\\DevPrime.Tools.csproj",
+        "packagesPath": "C:\\Users\\milto\\.nuget\\packages\\",
+        "outputPath": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Adapters\\Tools\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\milto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sgviagens/SGTech/_packaging/SGTech/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Application\\Application.csproj": {
+                "projectPath": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Application\\Application.csproj"
+              },
+              "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "devprime.stack.tools": {
+              "target": "Package",
+              "version": "[5.4.80, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\milto\\.nuget\\packages\\",
+        "outputPath": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\milto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sgviagens/SGTech/_packaging/SGTech/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "devprime.stack.foundation": {
+              "target": "Package",
+              "version": "[5.4.80, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\milto\\.nuget\\packages\\",
+        "outputPath": "D:\\Google Drive\\Comunidades\\Eventos\\VSSummit\\MSNotification\\src\\Core\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\milto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sgviagens/SGTech/_packaging/SGTech/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "devprime.stack.foundation": {
+              "target": "Package",
+              "version": "[5.4.80, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

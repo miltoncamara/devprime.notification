@@ -1,0 +1,17 @@
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\bin\Release\net5.0\DevPrime.HealthCheck.deps.json
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\bin\Release\net5.0\DevPrime.HealthCheck.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\bin\Release\net5.0\ref\DevPrime.HealthCheck.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\bin\Release\net5.0\DevPrime.HealthCheck.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\bin\Release\net5.0\Application.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\bin\Release\net5.0\Domain.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\bin\Release\net5.0\Domain.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\bin\Release\net5.0\Application.pdb
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\obj\Release\net5.0\DevPrime.HealthCheck.csprojAssemblyReference.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\obj\Release\net5.0\DevPrime.HealthCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\obj\Release\net5.0\DevPrime.HealthCheck.AssemblyInfoInputs.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\obj\Release\net5.0\DevPrime.HealthCheck.AssemblyInfo.cs
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\obj\Release\net5.0\DevPrime.HealthCheck.csproj.CoreCompileInputs.cache
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\obj\Release\net5.0\DevPrime.HealthCheck.csproj.CopyComplete
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\obj\Release\net5.0\DevPrime.HealthCheck.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\obj\Release\net5.0\ref\DevPrime.HealthCheck.dll
+D:\Google Drive\Comunidades\Eventos\VSSummit 2020\MSNotification\src\Adapters\HealthCheck\obj\Release\net5.0\DevPrime.HealthCheck.pdb
